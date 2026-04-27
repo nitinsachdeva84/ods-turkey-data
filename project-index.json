@@ -1,0 +1,44 @@
+{
+  "_note": "Project output index. Stores SharePoint links to every generated proposal and cost sheet. Updated automatically after each generation. Never store actual files here — links only.",
+  "_format": "Each entry is keyed by project reference. Contains SharePoint URLs, not file content.",
+  "projects": {
+    "LEV-SIEM-001": {
+      "group_name": "SIEMENS AG — Istanbul Sep 2026",
+      "client": "Siemens AG",
+      "ref": "LEV-SIEM-001",
+      "pm": "lgursoy",
+      "pax": 80,
+      "destination": "istanbul",
+      "check_in": "2026-09-15",
+      "check_out": "2026-09-19",
+      "status": "Proposal Sent",
+      "created": "2026-04-24",
+      "representative": "helmsbrisco",
+      "sharepoint_proposal": null,
+      "sharepoint_costsheet_client": null,
+      "sharepoint_costsheet_internal": null,
+      "_note": "SharePoint upload pending — MCP server required",
+      "outputs_history": [
+        {
+          "version": 1,
+          "ts": "2026-04-27T18:40:34Z",
+          "pm": "lgursoy",
+          "sharepoint_proposal": null,
+          "sharepoint_costsheet_client": null,
+          "sharepoint_costsheet_internal": null,
+          "costsheet_client": "outputs/costsheet-siemens-istanbul-LEV-SIEM-001-v1.xlsx",
+          "costsheet_internal": "outputs/costsheet-siemens-istanbul-LEV-SIEM-001-v1-INTERNAL.xlsx"
+        },
+        {
+          "version": 1,
+          "ts": "2026-04-27T18:40:41Z",
+          "pm": "lgursoy",
+          "sharepoint_proposal": null,
+          "sharepoint_costsheet_client": null,
+          "sharepoint_costsheet_internal": null,
+          "proposal": "outputs/proposal-siemens-istanbul-LEV-SIEM-001-v1.pptx"
+        }
+      ]
+    }
+  }
+}
