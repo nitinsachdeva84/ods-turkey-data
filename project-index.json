@@ -50,6 +50,16 @@
           "sharepoint_costsheet_client": null,
           "sharepoint_costsheet_internal": null,
           "proposal": "outputs/proposal-siemens-istanbul-LEV-SIEM-001-v1.pptx"
+        },
+        {
+          "version": 1,
+          "ts": "2026-04-28T08:57:44Z",
+          "pm": "lgursoy",
+          "sharepoint_proposal": null,
+          "sharepoint_costsheet_client": null,
+          "sharepoint_costsheet_internal": null,
+          "costsheet_client": "outputs/costsheet-siemens-istanbul-LEV-SIEM-001-v1.xlsx",
+          "costsheet_internal": "outputs/costsheet-siemens-istanbul-LEV-SIEM-001-v1-INTERNAL.xlsx"
         }
       ]
     },
@@ -62,7 +72,7 @@
       "destination": "istanbul",
       "check_in": "2026-10-12",
       "check_out": "2026-10-16",
-      "status": "Proposal Sent",
+      "status": "RFP Received",
       "created": "2026-04-28",
       "representative": null,
       "budget_pp": 3500,
