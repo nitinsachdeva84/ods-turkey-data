@@ -41,6 +41,15 @@
           "sharepoint_costsheet_client": null,
           "sharepoint_costsheet_internal": null,
           "proposal": "outputs/proposal-siemens-istanbul-LEV-SIEM-001-v1.pptx"
+        },
+        {
+          "version": 1,
+          "ts": "2026-04-28T05:03:39Z",
+          "pm": "lgursoy",
+          "sharepoint_proposal": null,
+          "sharepoint_costsheet_client": null,
+          "sharepoint_costsheet_internal": null,
+          "proposal": "outputs/proposal-siemens-istanbul-LEV-SIEM-001-v1.pptx"
         }
       ]
     }
