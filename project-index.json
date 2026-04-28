@@ -52,6 +52,37 @@
           "proposal": "outputs/proposal-siemens-istanbul-LEV-SIEM-001-v1.pptx"
         }
       ]
+    },
+    "LEV-BMW-001": {
+      "group_name": "BMW AG — Istanbul Oct 2026",
+      "client": "BMW AG",
+      "ref": "LEV-BMW-001",
+      "pm": "lgursoy",
+      "pax": 150,
+      "destination": "istanbul",
+      "check_in": "2026-10-12",
+      "check_out": "2026-10-16",
+      "status": "Proposal Sent",
+      "created": "2026-04-28",
+      "representative": null,
+      "budget_pp": 3500,
+      "hotel": "ciragan-palace-kempinski",
+      "nights": 4,
+      "market": "german",
+      "sharepoint_proposal": null,
+      "sharepoint_costsheet_client": null,
+      "sharepoint_costsheet_internal": null,
+      "outputs_history": [
+        {
+          "version": 1,
+          "ts": "2026-04-28T08:45:45Z",
+          "pm": "lgursoy",
+          "sharepoint_proposal": null,
+          "sharepoint_costsheet_client": null,
+          "sharepoint_costsheet_internal": null,
+          "proposal": "outputs/proposal-bmw-istanbul-LEV-BMW-001-v1.pptx"
+        }
+      ]
     }
   }
 }
