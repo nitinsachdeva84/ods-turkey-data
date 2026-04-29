@@ -129,6 +129,108 @@
           "sharepoint_costsheet_client": null,
           "sharepoint_costsheet_internal": null,
           "proposal": "outputs/proposal-bmw-ag-istanbul-LEV-BMW-001-v1.pptx"
+        },
+        {
+          "version": 1,
+          "ts": "2026-04-28T19:00:57Z",
+          "pm": "lgursoy",
+          "sharepoint_proposal": null,
+          "sharepoint_costsheet_client": null,
+          "sharepoint_costsheet_internal": null,
+          "proposal": "outputs/proposal-bmw-ag-istanbul-LEV-BMW-001-v1.pptx"
+        }
+      ]
+    },
+    "LEV-BOSC-001": {
+      "group_name": "Bosch GmbH — Istanbul 2026",
+      "client": "Bosch GmbH",
+      "ref": "LEV-BOSC-001",
+      "pm": "lgursoy",
+      "pax": 120,
+      "destination": "istanbul",
+      "check_in": "2026-09-08",
+      "check_out": "2026-09-12",
+      "status": "Proposal Sent",
+      "created": "2026-04-29",
+      "representative": "tourism-affairs-eva-muric-business-received-from",
+      "budget_pp": 3200,
+      "hotel": "fairmont-quasar-istanbul",
+      "nights": 4,
+      "market": "german",
+      "sharepoint_proposal": "https://ods.sharepoint.com/sites/ODSTurkeyOperation/_layouts/15/Doc.aspx?sourcedoc=%7B86C827B9-4EF7-43C1-AD28-A51C214A4950%7D&file=proposal-bosch-gmbh-istanbul-LEV-BOSC-001-v1.pptx&action=edit&mobileredirect=true",
+      "sharepoint_costsheet_client": "https://ods.sharepoint.com/sites/ODSTurkeyOperation/_layouts/15/Doc.aspx?sourcedoc=%7BC39BC648-F750-47A9-B49B-33595CF9891C%7D&file=costsheet-bosch-gmbh-istanbul-LEV-BOSC-001-v1.xlsx&action=default&mobileredirect=true",
+      "sharepoint_costsheet_internal": "https://ods.sharepoint.com/sites/ODSTurkeyOperation/_layouts/15/Doc.aspx?sourcedoc=%7BEE766E76-531A-4CB4-BEFB-16D6E55BC0AD%7D&file=costsheet-bosch-gmbh-istanbul-LEV-BOSC-001-v1-INTERNAL.xlsx&action=default&mobileredirect=true",
+      "outputs_history": [
+        {
+          "version": 1,
+          "ts": "2026-04-29T09:37:59Z",
+          "pm": "lgursoy",
+          "sharepoint_proposal": null,
+          "sharepoint_costsheet_client": null,
+          "sharepoint_costsheet_internal": null,
+          "costsheet_client": "outputs/costsheet-bosch-gmbh-istanbul-LEV-BOSC-001-v1.xlsx",
+          "costsheet_internal": "outputs/costsheet-bosch-gmbh-istanbul-LEV-BOSC-001-v1-INTERNAL.xlsx"
+        },
+        {
+          "version": 1,
+          "ts": "2026-04-29T10:20:49Z",
+          "pm": "lgursoy",
+          "sharepoint_proposal": null,
+          "sharepoint_costsheet_client": null,
+          "sharepoint_costsheet_internal": null,
+          "costsheet_client": "outputs/costsheet-bosch-gmbh-istanbul-LEV-BOSC-001-v1.xlsx",
+          "costsheet_internal": "outputs/costsheet-bosch-gmbh-istanbul-LEV-BOSC-001-v1-INTERNAL.xlsx"
+        },
+        {
+          "version": 1,
+          "ts": "2026-04-29T10:21:24Z",
+          "pm": "lgursoy",
+          "sharepoint_proposal": null,
+          "sharepoint_costsheet_client": null,
+          "sharepoint_costsheet_internal": null,
+          "proposal": "outputs/proposal-bosch-gmbh-istanbul-LEV-BOSC-001-v1.pptx"
+        }
+      ],
+      "sharepoint_folder": "https://ods.sharepoint.com/sites/ODSTurkeyOperation/Shared%20Documents/2026/Bosch%20GmbH%20-%202026-04-29%20(LEV-BOSC-001)%202"
+    },
+    "LEV-FERR-001": {
+      "group_name": "Ferrero SpA — Istanbul 2026",
+      "client": "Ferrero SpA",
+      "ref": "LEV-FERR-001",
+      "pm": "lgursoy",
+      "pax": 180,
+      "destination": "istanbul",
+      "check_in": "2026-10-22",
+      "check_out": "2026-10-26",
+      "status": "RFP Received",
+      "created": "2026-04-29",
+      "representative": "euromic-hello-usa",
+      "budget_pp": 2800,
+      "hotel": "ciragan-palace-kempinski",
+      "nights": 4,
+      "market": "italian",
+      "sharepoint_proposal": null,
+      "sharepoint_costsheet_client": null,
+      "sharepoint_costsheet_internal": null,
+      "outputs_history": [
+        {
+          "version": 1,
+          "ts": "2026-04-29T11:58:10Z",
+          "pm": "lgursoy",
+          "sharepoint_proposal": null,
+          "sharepoint_costsheet_client": null,
+          "sharepoint_costsheet_internal": null,
+          "costsheet_client": "outputs/costsheet-ferrero-spa-istanbul-LEV-FERR-001-v1.xlsx",
+          "costsheet_internal": "outputs/costsheet-ferrero-spa-istanbul-LEV-FERR-001-v1-INTERNAL.xlsx"
+        },
+        {
+          "version": 1,
+          "ts": "2026-04-29T11:58:40Z",
+          "pm": "lgursoy",
+          "sharepoint_proposal": null,
+          "sharepoint_costsheet_client": null,
+          "sharepoint_costsheet_internal": null,
+          "proposal": "outputs/proposal-ferrero-spa-istanbul-LEV-FERR-001-v1.pptx"
         }
       ]
     }
