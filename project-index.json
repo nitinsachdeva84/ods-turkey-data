@@ -1,9 +1,9 @@
 {
-  "_note": "Project output index. Stores SharePoint links to every generated proposal and cost sheet. Updated automatically after each generation. Never store actual files here — links only.",
+  "_note": "Project output index. Stores SharePoint links to every generated proposal and cost sheet. Updated automatically after each generation. Never store actual files here \u2014 links only.",
   "_format": "Each entry is keyed by project reference. Contains SharePoint URLs, not file content.",
   "projects": {
     "LEV-SIEM-001": {
-      "group_name": "SIEMENS AG — Istanbul Sep 2026",
+      "group_name": "SIEMENS AG \u2014 Istanbul Sep 2026",
       "client": "Siemens AG",
       "ref": "LEV-SIEM-001",
       "pm": "lgursoy",
@@ -21,7 +21,7 @@
       "sharepoint_proposal": null,
       "sharepoint_costsheet_client": null,
       "sharepoint_costsheet_internal": null,
-      "_note": "SharePoint upload pending — MCP server required",
+      "_note": "SharePoint upload pending \u2014 MCP server required",
       "outputs_history": [
         {
           "version": 1,
@@ -64,7 +64,7 @@
       ]
     },
     "LEV-BMW-001": {
-      "group_name": "BMW AG — Istanbul Oct 2026",
+      "group_name": "BMW AG \u2014 Istanbul Oct 2026",
       "client": "BMW AG",
       "ref": "LEV-BMW-001",
       "pm": "lgursoy",
@@ -142,7 +142,7 @@
       ]
     },
     "LEV-BOSC-001": {
-      "group_name": "Bosch GmbH — Istanbul 2026",
+      "group_name": "Bosch GmbH \u2014 Istanbul 2026",
       "client": "Bosch GmbH",
       "ref": "LEV-BOSC-001",
       "pm": "lgursoy",
@@ -194,7 +194,7 @@
       "sharepoint_folder": "https://ods.sharepoint.com/sites/ODSTurkeyOperation/Shared%20Documents/2026/Bosch%20GmbH%20-%202026-04-29%20(LEV-BOSC-001)%202"
     },
     "LEV-FERR-001": {
-      "group_name": "Ferrero SpA — Istanbul 2026",
+      "group_name": "Ferrero SpA \u2014 Istanbul 2026",
       "client": "Ferrero SpA",
       "ref": "LEV-FERR-001",
       "pm": "lgursoy",
@@ -233,6 +233,31 @@
           "proposal": "outputs/proposal-ferrero-spa-istanbul-LEV-FERR-001-v1.pptx"
         }
       ]
+    },
+    "LEV-M-001": {
+      "group_name": "M3 \u2014 Istanbul 2026",
+      "client": "M3",
+      "ref": "LEV-M-001",
+      "pm": "esakic",
+      "pax": 200,
+      "destination": "istanbul",
+      "check_in": null,
+      "check_out": null,
+      "status": "RFP Received",
+      "created": "2026-04-30",
+      "representative": null,
+      "budget_pp": null,
+      "hotel": null,
+      "nights": null,
+      "market": "unknown",
+      "contact_name": " Erdem Gen\u00e7 (M3 Works) ",
+      "contact_email": "erdem@m3.com.tr",
+      "sharepoint_proposal": null,
+      "sharepoint_costsheet_client": null,
+      "sharepoint_costsheet_internal": null,
+      "outputs_history": [],
+      "source": "auto_intake",
+      "source_subject": "Re: Servier - Business Summit ACE / PBE 2026 200 pax 1 Aral\u0131k 2026 Team Building"
     }
   }
 }
