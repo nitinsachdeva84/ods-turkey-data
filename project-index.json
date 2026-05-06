@@ -538,6 +538,15 @@
           "sharepoint_costsheet_internal": null,
           "costsheet_client": "outputs/costsheet-l-or-al-paris-istanbul-LEV-LORA-001-v1.xlsx",
           "costsheet_internal": "outputs/costsheet-l-or-al-paris-istanbul-LEV-LORA-001-v1-INTERNAL.xlsx"
+        },
+        {
+          "version": 1,
+          "ts": "2026-05-06T09:27:00Z",
+          "pm": "lgursoy",
+          "sharepoint_proposal": null,
+          "sharepoint_costsheet_client": null,
+          "sharepoint_costsheet_internal": null,
+          "proposal": "outputs/proposal-l-or-al-paris-istanbul-LEV-LORA-001-v1.pptx"
         }
       ]
     }
