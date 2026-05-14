@@ -1079,6 +1079,15 @@
           "sharepoint_costsheet_internal": null,
           "costsheet_client": "outputs/costsheet-autohaus-gruppe-istanbul-LEV-AUTO-001-v1.xlsx",
           "costsheet_internal": "outputs/costsheet-autohaus-gruppe-istanbul-LEV-AUTO-001-v1-INTERNAL.xlsx"
+        },
+        {
+          "version": 1,
+          "ts": "2026-05-14T13:25:41Z",
+          "pm": "lgursoy",
+          "sharepoint_proposal": null,
+          "sharepoint_costsheet_client": null,
+          "sharepoint_costsheet_internal": null,
+          "proposal": "outputs/proposal-autohaus-gruppe-istanbul-LEV-AUTO-001-v1.pptx"
         }
       ]
     }
