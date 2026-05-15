@@ -1272,6 +1272,38 @@
           "proposal": "outputs/proposal-premium-banking-group-cappadocia-LEV-PREM-002-v1.pptx"
         }
       ]
+    },
+    "LEV-PREM-003": {
+      "group_name": "Premium Banking Group — Cappadocia 2027",
+      "client": "Premium Banking Group",
+      "ref": "LEV-PREM-003",
+      "pm": "esakic",
+      "pax": 40,
+      "destination": "cappadocia",
+      "check_in": "2027-05-25",
+      "check_out": "2027-05-28",
+      "status": "RFP Received",
+      "created": "2026-05-15",
+      "representative": "body-soul-international-benelux-skandinavien-poland-south-af",
+      "budget_pp": 3500,
+      "hotel": "argos-in-cappadocia",
+      "nights": 3,
+      "market": "uk",
+      "sharepoint_proposal": null,
+      "sharepoint_costsheet_client": null,
+      "sharepoint_costsheet_internal": null,
+      "outputs_history": [
+        {
+          "version": 1,
+          "ts": "2026-05-15T14:13:25Z",
+          "pm": "esakic",
+          "sharepoint_proposal": null,
+          "sharepoint_costsheet_client": null,
+          "sharepoint_costsheet_internal": null,
+          "costsheet_client": "outputs/costsheet-premium-banking-group-cappadocia-LEV-PREM-003-v1.xlsx",
+          "costsheet_internal": "outputs/costsheet-premium-banking-group-cappadocia-LEV-PREM-003-v1-INTERNAL.xlsx"
+        }
+      ]
     }
   }
 }
