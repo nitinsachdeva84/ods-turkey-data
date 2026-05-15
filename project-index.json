@@ -1302,6 +1302,15 @@
           "sharepoint_costsheet_internal": null,
           "costsheet_client": "outputs/costsheet-premium-banking-group-cappadocia-LEV-PREM-003-v1.xlsx",
           "costsheet_internal": "outputs/costsheet-premium-banking-group-cappadocia-LEV-PREM-003-v1-INTERNAL.xlsx"
+        },
+        {
+          "version": 1,
+          "ts": "2026-05-15T14:13:39Z",
+          "pm": "esakic",
+          "sharepoint_proposal": null,
+          "sharepoint_costsheet_client": null,
+          "sharepoint_costsheet_internal": null,
+          "proposal": "outputs/proposal-premium-banking-group-cappadocia-LEV-PREM-003-v1.pptx"
         }
       ]
     }
